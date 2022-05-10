@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satwikbhasin
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Java, Python and it's dependencies
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 EMAIL : satwikbhasin@gmail.com
 
