@@ -4,6 +4,7 @@ Education:
 - Bachelor's in Technology with major in Information Technology.
 - Studying Master's in Computer Science at SUNY Albany, New York.
 
+
 Technical Stack:
 - Java
 - C++
