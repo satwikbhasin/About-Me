@@ -6,7 +6,12 @@ Technical Stack:
 - Python
 - MySQL
 - SpringBoot
-- Version Control
+- Version Control Systems
+- Jira
+- CSS
+- HTML
+- JavaFX
+- Scenebuilder
 <!---
 Satwikbhasin/Satwikbhasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
