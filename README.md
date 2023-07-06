@@ -1,12 +1,15 @@
-Hi, I’m Satwik Bhasin, I’m interested in end-to-end Software Development.
+<h2>Hi, I’m Satwik Bhasin, I’m interested in end-to-end Software Development. 
+Below is information about my current education and skills:</h2>
 
-Education:
+<h3>Education:</h3>
+
 - Bachelor's in Technology with major in Information Technology at GGSIPU, Delhi, India
 - Studying Master's in Computer Science at SUNY Albany, New York
 
-Technical Stack:
+<h3>Technical Stack:</h3>
 
-**Languages**
+<h4>Languages</h4>
+
 - Java
 - C++
 - Python
@@ -14,7 +17,8 @@ Technical Stack:
 - Javascript
 
 
-**Frameworks/Technologies**
+<h4>Frameworks/Technologies</h4>
+
 - SpringBoot
 - Git
 - Jira
@@ -25,7 +29,8 @@ Technical Stack:
 - ReactJS
 - NodeJS
 
-**Databases**
+<h4>Databases</h4>
+
 - PostGres
 - MySQL
 - MongoDB
