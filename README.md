@@ -5,7 +5,9 @@
 </div>
 
 <div id="badges" align="center">
-  <img href="https://www.linkedin.com/in/satwikbhasin/" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/satwikbhasin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <div id="profile-views" align="center">
