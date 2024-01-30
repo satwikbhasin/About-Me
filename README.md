@@ -19,7 +19,7 @@
 Passionate about coding solutions to real-world problems, I am a dedicated software developer with a knack for full-stack development, Java, and Agile methodologies. With a proven track record of collaborating on innovative projects, I thrive in dynamic environments that value creative problem-solving and continuous learning.
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=satwikbhasin&theme=dark&background=000000)](https://git.io/streak-stats)
+![General](https://github-readme-stats.vercel.app/api?username=satwikbhasin&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satwikbhasin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
