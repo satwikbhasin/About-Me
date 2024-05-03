@@ -1,6 +1,9 @@
-# Hey there, I’m Satwik Bhasin. Welcome to my GitHub.
+<div align="center">
+  <h1>Hey there, I’m Satwik. Welcome to my GitHub.<h1>
+    <p>Visit my website @ <a href="satwikbhasin.com">satwikbhasin.com</a></p>
+</div>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -29,7 +32,7 @@ Here's a glimpse into my tech arsenal:
 
 - **Programming languages:** Java, Python, C, C++
 - **Databases:** SQL, MySQL, MS SQL, PostgreSQL, MongoDB
-- **Web Development:** PHP, HTML, CSS, JavaScript, Django, ReactJS, ExpressJS
+- **Web Development:** PHP, HTML, CSS, JavaScript, Django, React.js, Express.js, Next.js
 - **Tools/Platform/Framework:** Azure, AWS, Git, SpringBoot, PostMan
 - **Libraries:** pandas, NumPy, Matplotlib, TensorFlow, Sci-kit learn, Open Cv
 
