@@ -30,11 +30,11 @@ Passionate about coding solutions to real-world problems, I am a dedicated softw
 
 Here's a glimpse into my tech arsenal:
 
-- **Programming languages:** Java, Python, C, C++
-- **Databases:** SQL, MySQL, MS SQL, PostgreSQL, MongoDB
-- **Web Development:** PHP, HTML, CSS, JavaScript, Django, React.js, Express.js, Next.js
-- **Tools/Platform/Framework:** Azure, AWS, Git, SpringBoot, PostMan
-- **Libraries:** pandas, NumPy, Matplotlib, TensorFlow, Sci-kit learn, Open Cv
+- **Programming languages:** Java, Python, C, C++, JavaScript, TypeScript
+- **Databases:** SQL (MySQL, PostgreSQL, MS SQL), NoSQL (MongoDB, Redis), ORM tools
+- **Web Development:** PHP, HTML, CSS, XML, React.js, Express.js, jQuery, Node.js, Next.js, RESTful APIs, Responsive Design
+- **Tools/Platform/Framework:** Azure, AWS (Including Serverless Architecture), Version Control Systems (Git), Spring Boot, Postman, Docker, Jenkins, MVC Architecture, Selenium
+
 
 ## 🚀 Seeking Full-Time Roles
 
