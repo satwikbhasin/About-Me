@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>Hey there, I’m Satwik. Welcome to my GitHub.<h1>
-    <p>Visit my website @ <a href="satwikbhasin.com">satwikbhasin.com</a></p>
-</div>
+## Hey there, I’m Satwik. Welcome to my GitHub.
+  
+### Visit my website @ [satwikbhasin.com](https://satwikbhasin.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
